@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/renushree30/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/renushree30/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/renushree30/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [1143-longest-common-subsequence](https://github.com/renushree30/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/renushree30/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/renushree30/LeetCode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/renushree30/LeetCode/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/renushree30/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
